@@ -1,0 +1,14 @@
+.container {
+  border: 5px solid black;
+  display: flex;
+  width: 80%;
+  margin: auto;
+}
+
+.column {
+  border: 2px solid rgb(202, 66, 66);
+  background-color: rgb(44, 48, 48);
+  color: white;
+  width: 100%;
+  padding: 2rem;
+}
